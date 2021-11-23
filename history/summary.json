@@ -41,18 +41,16 @@
     "icon": "https://favicons.githubusercontent.com/oj.socoding.cn",
     "slug": "scn-uoj",
     "status": "up",
-    "uptime": "1.42%",
-    "uptimeDay": "1.42%",
-    "uptimeWeek": "1.42%",
-    "uptimeMonth": "1.42%",
-    "uptimeYear": "1.42%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 804,
     "timeDay": 804,
     "timeWeek": 804,
     "timeMonth": 804,
     "timeYear": 804,
-    "dailyMinutesDown": {
-      "2021-11-23": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
