@@ -2,6 +2,9 @@
 owner: M1saka10010 # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
 
+assignees:
+  - M1saka10010
+
 sites:
   - name: Blog
     url: https://www.hunyl.com
