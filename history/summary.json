@@ -40,7 +40,7 @@
     "url": "https://oj.socoding.cn",
     "icon": "https://favicons.githubusercontent.com/oj.socoding.cn",
     "slug": "scn-uoj",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 1311,
     "timeMonth": 1227,
     "timeYear": 1227,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-02": 0
+    }
   }
 ]
