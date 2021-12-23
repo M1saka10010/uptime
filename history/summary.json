@@ -4,18 +4,19 @@
     "url": "https://www.hunyl.com",
     "icon": "https://favicons.githubusercontent.com/www.hunyl.com",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 2150,
-    "timeDay": 1714,
-    "timeWeek": 2416,
-    "timeMonth": 2150,
-    "timeYear": 2150,
+    "time": 2317,
+    "timeDay": 5439,
+    "timeWeek": 3091,
+    "timeMonth": 2274,
+    "timeYear": 2317,
     "dailyMinutesDown": {
+      "2021-12-23": 0,
       "2021-12-13": 26
     }
   },
@@ -33,7 +34,7 @@
     "time": 1977,
     "timeDay": 1989,
     "timeWeek": 2125,
-    "timeMonth": 1977,
+    "timeMonth": 2021,
     "timeYear": 1977,
     "dailyMinutesDown": {}
   },
@@ -51,7 +52,7 @@
     "time": 1164,
     "timeDay": 1131,
     "timeWeek": 1201,
-    "timeMonth": 1164,
+    "timeMonth": 1160,
     "timeYear": 1164,
     "dailyMinutesDown": {
       "2021-12-02": 32
