@@ -24,7 +24,7 @@
     "url": "https://ss.168167.xyz",
     "icon": "https://favicons.githubusercontent.com/ss.168167.xyz",
     "slug": "sspanel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 2142,
     "timeMonth": 2023,
     "timeYear": 2000,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-27": 0
+    }
   },
   {
     "name": "SCNUoj",
