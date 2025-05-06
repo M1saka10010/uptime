@@ -52,9 +52,9 @@
     "url": "https://oj.socoding.cn",
     "icon": "https://icons.duckduckgo.com/ip3/oj.socoding.cn.ico",
     "slug": "scn-uoj",
-    "status": "up",
-    "uptime": "87.55%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "87.56%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -64,6 +64,7 @@
     "timeMonth": 1270,
     "timeYear": 1420,
     "dailyMinutesDown": {
+      "2025-05-06": 0,
       "2025-03-21": 81,
       "2024-07-01": 96
     }
