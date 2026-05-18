@@ -4,18 +4,19 @@
     "url": "https://www.hunyl.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.hunyl.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1543,
-    "timeDay": 2156,
-    "timeWeek": 2111,
-    "timeMonth": 2137,
-    "timeYear": 1579,
+    "time": 1541,
+    "timeDay": 1206,
+    "timeWeek": 1879,
+    "timeMonth": 2076,
+    "timeYear": 1575,
     "dailyMinutesDown": {
+      "2026-05-18": 0,
       "2025-11-18": 98
     }
   },
@@ -24,18 +25,20 @@
     "url": "https://ss.168167.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/ss.168167.xyz.ico",
     "slug": "sspanel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1598,
+    "time": 1599,
     "timeDay": 2323,
     "timeWeek": 2285,
     "timeMonth": 1931,
     "timeYear": 1617,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-18": 0
+    }
   },
   {
     "name": "SCNUoj",
