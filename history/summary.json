@@ -45,16 +45,16 @@
     "url": "https://oj.socoding.cn",
     "icon": "https://icons.duckduckgo.com/ip3/oj.socoding.cn.ico",
     "slug": "scn-uoj",
-    "status": "down",
-    "uptime": "89.91%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.92%",
-    "uptimeYear": "97.55%",
+    "status": "up",
+    "uptime": "89.90%",
+    "uptimeDay": "84.35%",
+    "uptimeWeek": "97.76%",
+    "uptimeMonth": "92.40%",
+    "uptimeYear": "97.50%",
     "time": 1308,
-    "timeDay": 671,
-    "timeWeek": 847,
-    "timeMonth": 908,
+    "timeDay": 834,
+    "timeWeek": 881,
+    "timeMonth": 916,
     "timeYear": 1300,
     "dailyMinutesDown": {
       "2025-05-29": 936,
@@ -85,7 +85,7 @@
       "2026-05-15": 266,
       "2026-05-18": 204,
       "2026-05-19": 717,
-      "2026-05-27": 0
+      "2026-05-27": 225
     }
   }
 ]
