@@ -12,9 +12,9 @@
     "uptimeYear": "99.94%",
     "time": 1568,
     "timeDay": 1698,
-    "timeWeek": 2226,
-    "timeMonth": 2084,
-    "timeYear": 1606,
+    "timeWeek": 2182,
+    "timeMonth": 2078,
+    "timeYear": 1603,
     "dailyMinutesDown": {
       "2025-11-18": 98,
       "2026-05-18": 207
@@ -25,20 +25,21 @@
     "url": "https://ss.168167.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/ss.168167.xyz.ico",
     "slug": "sspanel",
-    "status": "down",
+    "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.96%",
-    "time": 1636,
-    "timeDay": 2492,
-    "timeWeek": 3251,
-    "timeMonth": 2508,
-    "timeYear": 1677,
+    "uptimeDay": "92.88%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.94%",
+    "time": 1637,
+    "timeDay": 2094,
+    "timeWeek": 3037,
+    "timeMonth": 2505,
+    "timeYear": 1678,
     "dailyMinutesDown": {
       "2026-05-18": 207,
-      "2026-06-02": 0
+      "2026-06-03": 10,
+      "2026-06-02": 92
     }
   },
   {
@@ -54,9 +55,9 @@
     "uptimeYear": "97.68%",
     "time": 1301,
     "timeDay": 752,
-    "timeWeek": 940,
+    "timeWeek": 947,
     "timeMonth": 928,
-    "timeYear": 1296,
+    "timeYear": 1297,
     "dailyMinutesDown": {
       "2025-06-19": 172,
       "2025-06-18": 346,
